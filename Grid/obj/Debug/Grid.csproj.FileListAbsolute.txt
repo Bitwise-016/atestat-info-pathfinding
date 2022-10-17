@@ -1,0 +1,6 @@
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Grid\bin\Debug\GridNew.dll
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Grid\bin\Debug\GridNew.pdb
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Grid\obj\Debug\Grid.csproj.AssemblyReference.cache
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Grid\obj\Debug\GridNew.dll
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Grid\obj\Debug\GridNew.pdb

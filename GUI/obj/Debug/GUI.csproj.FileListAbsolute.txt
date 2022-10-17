@@ -1,0 +1,16 @@
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\obj\Debug\GUI.Main.resources
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\bin\Debug\Algorithms.dll
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\bin\Debug\GridNew.dll
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\bin\Debug\Algorithms.pdb
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\bin\Debug\GridNew.pdb
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\obj\Debug\GUI.exe
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\obj\Debug\GUI.pdb
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\bin\Debug\GUI.exe.config
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\bin\Debug\GUI.exe
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\bin\Debug\GUI.pdb
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\GUI\obj\Debug\GUI.csproj.CopyComplete

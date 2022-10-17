@@ -1,0 +1,9 @@
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Algorithms\bin\Debug\GridNew.dll
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Algorithms\bin\Debug\GridNew.pdb
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Algorithms\obj\Debug\Algoritmi.csproj.AssemblyReference.cache
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Algorithms\obj\Debug\Algoritmi.csproj.CoreCompileInputs.cache
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Algorithms\obj\Debug\Algoritmi.csproj.CopyComplete
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\frach\OneDrive\Desktop\de studiat pathfinding\Algorithms\obj\Debug\Algorithms.pdb
